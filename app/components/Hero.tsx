@@ -4,7 +4,7 @@ import { FaGithub, FaLinkedin, FaTelegramPlane, FaEnvelope } from "react-icons/f
 
 export default function Hero() {
     return (
-        <div className="hero bg-base-200">
+        <div className="hero ">
             <div className="hero-content flex-col lg:flex-row">
                 <img
                     src="/paulo.jpg"

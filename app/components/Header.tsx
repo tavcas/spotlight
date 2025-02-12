@@ -12,7 +12,7 @@ function Logo() {
 }
 
 export default function Header() {
-    return (<div className="navbar bg-transparent">
+    return (<div className="navbar bg-white">
         <div className="navbar-start">
             <Logo />
         </div>

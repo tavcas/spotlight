@@ -20,5 +20,6 @@ export default {
   },
   plugins: [
     require('daisyui'),
+    require('tailwindcss-bg-patterns'),
   ],
 } satisfies Config;
